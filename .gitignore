@@ -1,0 +1,7 @@
+/var/
+/vendor/
+/node_modules/
+/public/var/
+/public/bundles/
+/.env
+.env.local
